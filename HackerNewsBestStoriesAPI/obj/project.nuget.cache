@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkJgIFSpuks=",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\HackerNewsBestStoriesApi\\HackerNewsBestStoriesAPI\\HackerNewsBestStoriesAPI.csproj",
+  "expectedPackageFiles": [
+    "e:\\Download\\nugetcache\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.configuration.binder\\9.0.1\\microsoft.extensions.configuration.binder.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.diagnostics\\9.0.1\\microsoft.extensions.diagnostics.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.diagnostics.abstractions\\9.0.1\\microsoft.extensions.diagnostics.abstractions.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.http\\9.0.1\\microsoft.extensions.http.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.logging\\9.0.1\\microsoft.extensions.logging.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.options.configurationextensions\\9.0.1\\microsoft.extensions.options.configurationextensions.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "e:\\Download\\nugetcache\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
