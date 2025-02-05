@@ -1,4 +1,4 @@
-# 🚀 HackerNewsBestStoriesApi - Fast .NET 8 REST API
+# 🚀 HackerNewsBestStoriesApi - Fast .NET 9 REST API
 
 A high-performance ASP.NET Core Web API to fetch and return the **top "best stories"** from the Hacker News API.  
 Optimized for **speed, scalability, and efficiency** with caching and asynchronous requests.
@@ -17,7 +17,7 @@ Optimized for **speed, scalability, and efficiency** with caching and asynchrono
 ## 🛠 How to Run
 
 ### **1️⃣ Prerequisites**
-Ensure you have **.NET 8 SDK** installed.  
+Ensure you have **.NET 9 SDK** installed.  
 Check your .NET version:
 ```sh
 dotnet --version
@@ -105,7 +105,7 @@ Automate testing & deployment with **GitHub Actions** or **Azure DevOps**.
 ---
 
 ## 🛠 Technologies Used
-✅ **.NET 8**  
+✅ **.NET 9**  
 ✅ **ASP.NET Core Minimal API**  
 ✅ **HttpClientFactory**  
 ✅ **MemoryCache**  
